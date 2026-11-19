@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Reemplaza la URL con tu dominio real una vez publicado en Hostinger
+# Sitemap: https://tudominio.com/sitemap.xml
